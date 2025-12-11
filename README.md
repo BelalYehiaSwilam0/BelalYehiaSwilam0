@@ -6,6 +6,7 @@ I focus on **real-world projects**, building clean, modular, and maintainable ba
 Started programming with **C++** and **Functional Programming**, then progressed through **OOP, Data Structures, Algorithms, and C#**.  
 I have hands-on experience designing databases from scratch and developing **SQL Server databases** (Views, Stored Procedures, Functions).  
 I build **RESTful APIs using .NET Core** and **Desktop Applications (.NET Framework, WinForms)**, following **multi-layered architecture**.
+Familiar with SOLID principles and focused on writing clean, maintainable, and structured backend code.
 
 ---
 
